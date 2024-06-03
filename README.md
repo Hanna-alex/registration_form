@@ -11,7 +11,7 @@
  + дизайн на усмотрение разработчика.
   (branch: dev)
 
- Демо: 
+ Демо:  https://hanna-alex.github.io/registration_form/
 
  --
 
